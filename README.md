@@ -1,4 +1,4 @@
-# 🏦 Bank Transaction Analysis
+# 🏦 Bank Transaction and Account Holders
 
 ## 📌 Project Overview
 This project analyzes bank transaction data using MySQL and Power BI to explore transaction patterns and generate meaningful business insights.
