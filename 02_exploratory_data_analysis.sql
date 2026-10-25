@@ -3,7 +3,6 @@
 -- FILE      : 03_exploratory_data_analysis.sql
 -- PURPOSE   : Basic exploration to understand the data before
 --             answering business questions
--- PREPARED BY: Aishwarya Mate
 -- =====================================================================
 
 USE bank_transactions_db;
