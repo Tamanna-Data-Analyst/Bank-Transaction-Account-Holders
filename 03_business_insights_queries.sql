@@ -3,7 +3,6 @@
 -- FILE      : 04_business_insights_queries.sql
 -- PURPOSE   : Answer real banking business questions using SQL
 --             (joins, aggregation, filtering, grouping, subqueries)
--- PREPARED BY: 
 -- =====================================================================
 
 USE bank_transactions_db;
