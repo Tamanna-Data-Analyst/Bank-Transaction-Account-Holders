@@ -2,7 +2,6 @@
 -- PROJECT   : Bank Transactions & Account Holders
 -- FILE      : 01_database_and_tables.sql
 -- PURPOSE   : Create the project database and the two core tables
--- PREPARED BY: Aishwarya Mate
 -- =====================================================================
 
 -- STEP 1: Create a fresh database for this project
