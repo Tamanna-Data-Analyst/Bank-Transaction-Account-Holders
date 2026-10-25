@@ -38,7 +38,7 @@ The objective of this project is to analyze banking transactions, understand tra
 
 The following dashboard visualizes bank transaction data and presents key transaction insights.
 
-![Bank Transaction Dashboard](Bank_Transaction_Dashboard.png)
+![Bank Transaction and Account Holders](Bank_Transaction_Dashboard.png)
 
 ## 🏁 Conclusion
 This project demonstrates the use of MySQL for data exploration and analysis and Power BI for data visualization and reporting.
